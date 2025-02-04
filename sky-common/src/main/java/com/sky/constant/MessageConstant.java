@@ -1,7 +1,7 @@
 package com.sky.constant;
 
 /**
- * 信息提示常量类
+ * 信息提示常量类5
  */
 public class MessageConstant {
 
