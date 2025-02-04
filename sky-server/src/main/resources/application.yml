@@ -61,3 +61,7 @@ sky:
     weChatPayCertFilePath: ${sky.wechat.weChatPayCertFilePath}
     notifyUrl: ${sky.wechat.notifyUrl}
     refundNotifyUrl: ${sky.wechat.refundNotifyUrl}
+  shop:
+    address: 石狮市锦尚镇东店四区四十号
+  baidu:
+    ak: M8znh1JGWmq91cbX2xQbxSS39GgSP6t2
